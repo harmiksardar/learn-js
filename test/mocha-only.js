@@ -1,4 +1,5 @@
 var assert = require('assert');
+
 function area(l, w) {
  if (l <= 0) {
   return 'undefined';
@@ -8,7 +9,8 @@ function area(l, w) {
   return l * w;
  }
 }
-describe('Calculate the Area', function() {
+
+describe('Calculate Area', function() {
  it('should return 18 when length is 6 and width is 3', function() {
   assert.equal(area(6, 3), 18);
  })

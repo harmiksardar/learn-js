@@ -1,7 +1,7 @@
 var expect = require('chai').expect;
 var addTwoNumbers = require('../addTwoNumbers');
 
-describe('addTwoNumbers()', function() {
+describe('Add Two Numbers', function() {
   it('should add two numbers', function() {
     // 1. ARRANGE
     var x = 5;
