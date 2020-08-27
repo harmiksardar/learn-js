@@ -2,4 +2,4 @@
 
 # learn-js
 
-Leearning Javascript with Mocha & Chai (unit testing) and Selenium Webdriver (UI testing)
+Javascript is awesome - with Mocha & Chai (Unit Testing) + Cypress (Automated UI Testing) + Applitools (Automated Visual UI Testing)
