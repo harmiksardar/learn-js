@@ -2,7 +2,7 @@
 
 # learn-js
 
-Javascript is awesome - with Mocha & Chai (Unit Testing)
+Javascript is awesome - - - with Mocha & Chai (Unit Testing)
 
 More awesome with Cypress (Automated UI Testing) 
 
