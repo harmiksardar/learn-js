@@ -7,4 +7,3 @@ Javascript is awesome with Mocha & Chai (Unit Testing)
 More awesome with Cypress (Automated E2E/UI Testing) 
 
 Even more awesome with Applitools (Automated Visual UI Testing)
-
